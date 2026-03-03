@@ -1,0 +1,17 @@
+# Large data files
+amazon_products_clean.csv
+amazon_products_clean.zip
+
+# Quarto render cache (784MB)
+amazon-pricing-analysis_cache/
+
+# Quarto companion files (not needed — HTML is self-contained)
+amazon-pricing-analysis_files/
+
+# Claude metadata
+.claude/
+
+# Misc
+_ul
+*.ipynb_checkpoints/
+.DS_Store
